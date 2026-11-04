@@ -99,7 +99,7 @@ EMBEDDING_MODEL=text-embedding-nomic-embed-text-v1.5
 python app.py
 ```
 
-DocChat will be accessible at `http://0.0.0.0:7860`.
+DocChat will be accessible at `http://127.0.0.1:5000`.
 
 
 ## 🖥️ Usage Guide  
